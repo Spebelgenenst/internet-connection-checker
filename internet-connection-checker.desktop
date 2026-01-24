@@ -3,4 +3,3 @@ Name=internet-connection-checker
 Exec="python3" "internet-connection-checker/main.py" --background
 Terminal=false
 Type=Application
-StartupNotify=false
