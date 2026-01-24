@@ -4,5 +4,8 @@ A python script which runs a programm, as soon as the device has an internet con
 ## installation
 
 ```
+pip3 install requests
+```
+```
 curl -sSL https://raw.githubusercontent.com/Spebelgenenst/internet-connection-checker/refs/heads/main/install.sh | bash
 ```

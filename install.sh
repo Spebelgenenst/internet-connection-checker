@@ -1,5 +1,4 @@
 cd
-pip3 install requests
 git clone https://github.com/Spebelgenenst/internet-connection-checker
 mv internet-connection-checker/internet-connection-checker.desktop .config/autostart/
 cd internet-connection-checker/
