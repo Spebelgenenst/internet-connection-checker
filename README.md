@@ -1,5 +1,5 @@
 # internet connection checker
-A python script which runs a programm, as soon as the device has an internet connection
+A python script which runs a something, as soon as the device has an internet connection
 
 ## installation
 
