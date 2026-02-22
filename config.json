@@ -2,5 +2,5 @@
     "cooldown": 10,
     "request_timeout": 5,
     "request_url": "https://www.google.com",
-    "run": ["echo", "run"]
+    "run": ["firefox"]
 }
