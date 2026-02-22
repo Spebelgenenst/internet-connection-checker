@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=internet-connection-checker
-Exec=python3 ~/internet-connection-checker/main.py
-Terminal=false
+Name=Internet Connection Checker
+Exec=bash -c "cd ~/internet-connection-checker/ && python3 main.py"
+Terminal=true
 Type=Application
